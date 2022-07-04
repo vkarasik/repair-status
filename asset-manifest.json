@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vkarasik/repair-status/static/css/main.648e6587.css",
+    "main.js": "/vkarasik/repair-status/static/js/main.3cd39a45.js",
+    "static/js/787.0962814f.chunk.js": "/vkarasik/repair-status/static/js/787.0962814f.chunk.js",
+    "index.html": "/vkarasik/repair-status/index.html",
+    "main.648e6587.css.map": "/vkarasik/repair-status/static/css/main.648e6587.css.map",
+    "main.3cd39a45.js.map": "/vkarasik/repair-status/static/js/main.3cd39a45.js.map",
+    "787.0962814f.chunk.js.map": "/vkarasik/repair-status/static/js/787.0962814f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.648e6587.css",
+    "static/js/main.3cd39a45.js"
+  ]
+}
